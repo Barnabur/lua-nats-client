@@ -1,0 +1,4 @@
+nats-server.exe
+nats.exe
+*.exe
+*.bin
